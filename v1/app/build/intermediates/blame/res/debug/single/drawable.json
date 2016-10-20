@@ -68,6 +68,10 @@
         "source": "D:\\GitHub\\study app\\v1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "D:\\GitHub\\study app\\v1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_screen_drawable.xml",
+        "source": "D:\\GitHub\\study app\\v1\\app\\src\\main\\res\\drawable\\splash_screen_drawable.xml"
+    },
+    {
         "merged": "D:\\GitHub\\study app\\v1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "D:\\GitHub\\study app\\v1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },

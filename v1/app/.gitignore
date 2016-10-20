@@ -1,5 +1,5 @@
 # Built application files
-/*/build/
+/build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -21,6 +21,7 @@ local.properties
 .idea/misc.xml
 .idea/modules.xml
 .idea/scopes/scope_settings.xml
+/build
 *.iml
 
 # OS-specific files
